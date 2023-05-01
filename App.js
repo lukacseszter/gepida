@@ -4,7 +4,7 @@ import { Text, View, StyleSheet } from 'react-native';
 export default () => {
   return (
     <View style={styles.container}>
-      <Text>Tartalom</Text>
+      <Text>Gepida</Text>
     </View>
   );
 }
